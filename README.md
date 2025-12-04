@@ -27,6 +27,3 @@ Exports processed data into CSV files and generates `summary.txt` containing exe
   - Weekly averages vary depending on operational demand
 - A visual dashboard combining all charts is available in `dashboard.png`
 
----
-2. Run the script:
-
