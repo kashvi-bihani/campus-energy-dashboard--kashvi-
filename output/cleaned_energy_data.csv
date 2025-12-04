@@ -1,0 +1,10 @@
+date,consumption,building,month,week
+2024-01-01,120,Building_A,January,1
+2024-01-02,130,Building_A,January,1
+2024-01-03,140,Building_A,January,1
+2024-01-01,150,Building_B,January,1
+2024-01-02,155,Building_B,January,1
+2024-01-03,160,Building_B,January,1
+2024-01-01,200,Building_C,January,1
+2024-01-02,210,Building_C,January,1
+2024-01-03,230,Building_C,January,1

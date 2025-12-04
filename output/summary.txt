@@ -1,0 +1,12 @@
+===== ENERGY CONSUMPTION SUMMARY REPORT =====
+
+Total Campus Consumption: 1495 kWh
+Highest Consuming Building: Building_C (640 kWh)
+Peak Load: 230 kWh on 2024-01-03 00:00:00
+
+Daily Trend Observed:
+- Consumption changes over each day based on building usage patterns.
+Weekly Trend Observed:
+- Average usage varies across buildings depending on operational demand.
+
+For detailed charts, please refer to dashboard.png.
